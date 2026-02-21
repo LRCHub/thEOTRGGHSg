@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "実況中継",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-21T04:43:06.154807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "実況中継",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_実況中継_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "実況中継",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_実況中継_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "実況中継",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_実況中継_RADWIMPS.txt"
+    }
+  ]
+}
